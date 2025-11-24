@@ -8,7 +8,8 @@ A no-code/low-code automated platform that collects, curates, and presents the d
 ---
 
 ## 🌍 Live Demo
-👉 **Visit the App:** [(https://whats-new-6tdg.glide.page/dl/d0a5f4)](#)
+👉  **Visit the App:** [What's New (Live App)](https://whats-new-6tdg.glide.page/dl/d0a5f4)
+
 
 ---
 
